@@ -133,6 +133,7 @@ C:\Users\00325101\Downloads\newfeedback\Feedback-System-main\backend-api\obj\Deb
 C:\Users\00325101\Downloads\newfeedback\Feedback-System-main\backend-api\obj\Debug\net10.0\backend-api.csproj.CoreCompileInputs.cache
 C:\Users\00325101\Downloads\newfeedback\Feedback-System-main\backend-api\obj\Debug\net10.0\backend-api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\00325101\Downloads\newfeedback\Feedback-System-main\backend-api\obj\Debug\net10.0\backend-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\00325101\Downloads\newfeedback\Feedback-System-main\backend-api\obj\Debug\net10.0\backend-api.sourcelink.json
 C:\Users\00325101\Downloads\newfeedback\Feedback-System-main\backend-api\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\00325101\Downloads\newfeedback\Feedback-System-main\backend-api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\00325101\Downloads\newfeedback\Feedback-System-main\backend-api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
